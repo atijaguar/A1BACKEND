@@ -14,3 +14,10 @@ A1 es un proyecto de producción de software colaborativa con el objetivo de des
 # ANTECEDENTES Y PERSPECTIVA
 Atijaguar Cia .Ltda. es una empresa constituida en el 2013 en la ciudad de Quito-Ecuador cuenta con analistas y programadores en diferentes lenguajes de programación con más de 15 años de experiencia. A finales del 2017 inició el proyecto de desarrollo del ERP A1, luego de reconocer las ventajas que tiene la producción colaborativa en la red, al inicio del 2019 decidió liberar el código fuente a un repositorio público con el propósito de invitar a colaborar a cualquier profesional que intervengan en la implementación de un ERP en especial a programadores de software en PHP, JAVA, ANGULAR, C# y IONIC, especialistas en Procesos, Contadores, Talento humano, Inventario y Logística, Marketing y Ventas, a participar activamente en una comunidad donde tendrán beneficios como capacitación para poder comercializar el producto de forma gratuita y cobrar por sus servicios profesionales de forma directa a sus clientes.
 Más información: conunidad@atijaguar.com
+
+## Versions of
+PHP 7
+
+## Installation and setup
+1. Clone the repo https://github.com/atijaguar/A1BACKEND.git
+2. Run `php composer.phar update
