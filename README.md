@@ -1,9 +1,7 @@
 #UTILIZAR ESTA RAMA PARA EL DESARROLLO 
 # A1 BACKEND - DEV
 
-> Existe una rama en el repositorio **devA1** donde se encuentra el
-> código en ambiente de desarrollo. En esta rama principal master estará
-> la versión estable para producción.
+> Existe una rama principal master donde se encuentra la versión estable para producción.
 
 Con la utilización de Zend-framework 3 y Apigility, nos permite administrar las versiones de una misma API en formato JSON facilitando de esta manera el desarrollo, pruebas y puesta en producción de nuevas implementaciones que requieran nuestros clientes.
 
