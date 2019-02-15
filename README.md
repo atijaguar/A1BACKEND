@@ -28,4 +28,4 @@ Más información: conunidad@atijaguar.com
 
 ## Installation and setup
 1. Clone the repo https://github.com/atijaguar/A1BACKEND.git
-2. Run `php composer.phar update
+2. Run: composer update
